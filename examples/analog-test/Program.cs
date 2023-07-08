@@ -62,7 +62,7 @@ namespace analog_test
                     }
 
                     // We want to have a bit of a delay so we don't spam the console with new values
-                    Thread.Sleep(100);
+                    Thread.Sleep(5);
                 }
             }			
             else {
